@@ -1,0 +1,1 @@
+Use inheritance and composition to model a graphical object editor. Have a class that holds a canvas; add several shapes to the canvas like: points, lines, circles, rectangles. Remember that a line has 2 points, a rectangle has 4 points and 4 lines etc. Use the Composite pattern. You can put a canvas on canvas.
